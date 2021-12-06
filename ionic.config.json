@@ -1,0 +1,7 @@
+{
+  "name": "MidtermProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

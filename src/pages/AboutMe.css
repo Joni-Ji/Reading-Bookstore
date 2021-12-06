@@ -1,0 +1,85 @@
+.aboutMeTitle{
+    position: relative;
+    font-size: 10px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    color:dimgray;
+}
+.ioncard2{
+    height: 11rem;
+    color:darkgrey;
+}
+.ioncard1{
+    height: 6rem;
+    color:darkgrey;
+    
+}
+.content{
+    font-size: 5px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+.iconAccount{
+    position: absolute;
+    top: 25px;
+    right: 210px;
+    transform: translateY(-50%);
+    color:salmon;
+    font-size: 24px;
+}
+.iconAccount1{
+    position: absolute;
+    top: 25px;
+    right: 210px;
+    transform: translateY(-50%);
+    color:palevioletred;
+    font-size: 24px;
+}
+.iconAccount2{
+    position: absolute;
+    top: 25px;
+    right: 210px;
+    transform: translateY(-50%);
+    color:sandybrown;
+    font-size: 24px;
+}
+.iconAccount3{
+    position: absolute;
+    top: 25px;
+    right: 210px;
+    transform: translateY(-50%);
+    color:peru;
+    font-size: 24px;
+}
+.iconAccount4{
+    position: absolute;
+    top: 25px;
+    right: 210px;
+    transform: translateY(-50%);
+    color:seagreen;
+    font-size: 24px;
+}
+.iconAccount5{
+    position: absolute;
+    top: 25px;
+    right: 210px;
+    transform: translateY(-50%);
+    color:teal;
+    font-size: 24px;
+}
+.iconAccount6{
+    position: absolute;
+    top: 25px;
+    right: 210px;
+    transform: translateY(-50%);
+    color:cornflowerblue;
+    font-size: 24px;
+}
+.iconAccount7{
+    position: absolute;
+    top: 25px;
+    right: 210px;
+    transform: translateY(-50%);
+    color:mediumslateblue;
+    font-size: 24px;
+}

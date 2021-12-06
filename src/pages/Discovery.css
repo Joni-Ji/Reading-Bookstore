@@ -1,0 +1,72 @@
+.discoveryTitle{
+    position: relative;
+    font-size: 10px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    color:black;
+    left: 20px;
+}
+.discoveryIcon1{
+    position: absolute;
+    right: 430px;
+    top:25px;
+    transform: translateY(-50%);
+    color:cornflowerblue;
+    font-size: 24px;
+}
+.discoveryIcon2{
+    position: absolute;
+    right: 430px;
+    top:25px;
+    transform: translateY(-50%);
+    color:darkseagreen;
+    font-size: 24px;
+}
+.discoveryIcon3{
+    position: absolute;
+    right: 430px;
+    top:25px;
+    transform: translateY(-50%);
+    color:darksalmon;
+    font-size: 24px;
+}
+.discoveryIcon4{
+    position: absolute;
+    right: 430px;
+    top:25px;
+    transform: translateY(-50%);
+    color:goldenrod;
+    font-size: 24px;
+}
+.discoveryIcon5{
+    position: absolute;
+    right: 430px;
+    top:25px;
+    transform: translateY(-50%);
+    color:indianred;
+    font-size: 24px;
+}
+.discoveryIcon6{
+    position: absolute;
+    right: 430px;
+    top:25px;
+    transform: translateY(-50%);
+    color:palevioletred;
+    font-size: 24px;
+}
+.discoveryIcon7{
+    position: absolute;
+    right: 430px;
+    top:25px;
+    transform: translateY(-50%);
+    color:slateblue;
+    font-size: 24px;
+}
+.textName{
+    text-align: center;
+}
+.textPrice{
+    text-align: center;
+    color: lightcoral;
+}
+

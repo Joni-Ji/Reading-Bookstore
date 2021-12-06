@@ -1,0 +1,41 @@
+
+.ioncard{
+    background-color: black;
+}
+.text{
+    color: rgb(245, 228, 131);
+    font-size: large;
+    text-align: center;
+}
+.textSub{
+    color: rgb(245, 228, 131);
+    font-size: smaller;
+    font-weight: 100;
+    text-align: center;
+}
+.ioncard02{
+    background-color:rgb(19, 22, 22);
+}
+.pic{
+    background-size: initial;
+}
+.readTitle{
+    text-align: center;
+    font-size:28px;
+}
+.textRead{
+    text-align: center;
+}
+.RecommendedSub{
+    color:dimgrey;
+    font-size: smaller;
+    text-align: center;
+}
+.listHeader{
+    font: 700 25px "Comic Sans MS";
+    color:palevioletred;
+}
+.datetime{
+    color: palevioletred;
+
+}
